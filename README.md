@@ -1,5 +1,7 @@
 # Depth Of Field Unity project
 
+![Alt text](/DOF\ Project/Capture.PNG?raw=true "DOF")
+
 This project showcases a depth of field effect in Unity. I use a raycast from the player's forward vector to determine which object should be in view. The object's distance is then sent to a postprocessing script that computes depth of field, using this distance as a focal length.
 
 My code is in the Assets/Scripts folder.
