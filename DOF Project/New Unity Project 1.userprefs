@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DOFShader.shader">
+    <Files>
+      <File FileName="Assets\Scripts\DOFRayTrace.cs" Line="12" Column="14" />
+      <File FileName="Assets\Standard Assets\Image Effects (Pro Only)\DepthOfFieldScatter.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DOFShader.shader" Line="1" Column="17" />
+      <File FileName="c:\Users\Niraj\Documents\New Unity Project 1\Assets\Editor\Water (Pro Only)\Water4\WaterBaseEditor.cs" Line="8" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
